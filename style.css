@@ -1,0 +1,43 @@
+body{
+    background-image: url(st-vic-Bnm0Ntarz6o-unsplash.jpg);
+    background-size:cover;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin-top: 30px;
+   
+    
+}
+
+.lists{
+    margin-top: 20px;
+    margin-left: 455px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
+}
+
+#sub{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    color:black;
+    background-color: green;
+    margin-left: 552px;
+    border-radius: 8px;
+    border-style: solid;
+    
+}
+
+.items{
+    margin-top: 20px;
+    margin-left: 455px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
